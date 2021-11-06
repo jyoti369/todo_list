@@ -41,7 +41,7 @@ const App = () =>
             'https://github.com/jyoti369/todo_list')
         }>ToDo List</h1>
                     <br />
-                    <input type="text" placeholder="Add a Item" 
+                    <input type="text" placeholder="Add an Item" 
                         value={inputList}
                         onChange={itemEvent}
                     />
